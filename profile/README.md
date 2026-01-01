@@ -1,12 +1,3 @@
-# ArktIQ IT
-
-> **Professional IT consulting, custom business applications, and system integration for small and medium-sized businesses**
-
-[![Website](https://img.shields.io/badge/website-arktiq.no-blue)](https://arktiq.no)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Remi%20Mikalsen-blue)](https://www.linkedin.com/in/remimikalsen/)
-
----
-
 ## 🚀 What we do
 
 ArktIQ IT specializes in delivering top-tier IT consulting services tailored to small and medium-sized businesses. With **over 25 years of experience** in development, system architecture, and leadership, we provide customized solutions that deliver lasting value.
